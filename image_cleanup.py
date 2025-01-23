@@ -34,6 +34,7 @@ for infile in sys.argv[1:]:
     try:
       im = im.convert('RGB')
       im.save("/opt/icons/" + os.path.basename(infile), "JPEG")
+      im.close()
     except OSError:
         print(f"Unable to convert file {infile}")
         traceback.print_exc()
