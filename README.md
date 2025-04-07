@@ -19,3 +19,12 @@ Mailing a PDF sales report using reportlab and smtplib
 ### Project 4 
 Putting all the pieces together (processing images, uploading data to server, generating PDF report, handing mailing, monitoring system for errors)
 - [catalog_update](https://github.com/Nic-Sevic/Coursera/tree/main/catalog_update)
+
+## Google Data Analytics: 
+- [Course](https://www.coursera.org/specializations/google-data-analytics)
+- [Certificate](https://coursera.org/share/66647fc26dbaa05876ac1643b468eaa2)
+
+### Capstone
+Data analysis, visualization, and reporting with R
+- [R Markdown file](https://github.com/Nic-Sevic/Coursera/blob/main/Data_Analysis_Course_Capstone.Rmd)
+- [Report PDF](https://github.com/Nic-Sevic/Coursera/blob/main/Google%20Data%20Analysis%20Capstone%20report.pdf)
